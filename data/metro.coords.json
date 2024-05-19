@@ -1,0 +1,1922 @@
+[
+  {
+    "Name": "Новокосино",
+    "Longitude": 37.864052,
+    "LineColor": "FFCD1C",
+    "Latitude": 55.745113,
+    "Line": "Калининская",
+    "Order": 0
+  },
+  {
+    "Name": "Новогиреево",
+    "Longitude": 37.814587,
+    "LineColor": "FFCD1C",
+    "Latitude": 55.752237,
+    "Line": "Калининская",
+    "Order": 1
+  },
+  {
+    "Name": "Перово",
+    "Longitude": 37.78422,
+    "LineColor": "FFCD1C",
+    "Latitude": 55.75098,
+    "Line": "Калининская",
+    "Order": 2
+  },
+  {
+    "Name": "Шоссе энтузиастов",
+    "Longitude": 37.751703,
+    "LineColor": "FFCD1C",
+    "Latitude": 55.75809,
+    "Line": "Калининская",
+    "Order": 3
+  },
+  {
+    "Name": "Авиамоторная",
+    "Longitude": 37.717444,
+    "LineColor": "FFCD1C",
+    "Latitude": 55.751933,
+    "Line": "Калининская",
+    "Order": 4
+  },
+  {
+    "Name": "Площадь Ильича",
+    "Longitude": 37.680726,
+    "LineColor": "FFCD1C",
+    "Latitude": 55.747115,
+    "Line": "Калининская",
+    "Order": 5
+  },
+  {
+    "Name": "Марксистская",
+    "Longitude": 37.65604,
+    "LineColor": "FFCD1C",
+    "Latitude": 55.740746,
+    "Line": "Калининская",
+    "Order": 6
+  },
+  {
+    "Name": "Третьяковская",
+    "Longitude": 37.626142,
+    "LineColor": "FFCD1C",
+    "Latitude": 55.741125,
+    "Line": "Калининская",
+    "Order": 7
+  },
+  {
+    "Name": "Деловой центр",
+    "Longitude": 37.5395,
+    "LineColor": "FFCD1C",
+    "Latitude": 55.7491,
+    "Line": "Калининская",
+    "Order": 8
+  },
+  {
+    "Name": "Парк Победы",
+    "Longitude": 37.514401,
+    "LineColor": "FFCD1C",
+    "Latitude": 55.736478,
+    "Line": "Калининская",
+    "Order": 9
+  },
+  {
+    "Name": "Речной вокзал",
+    "Longitude": 37.476728,
+    "LineColor": "4FB04F",
+    "Latitude": 55.854152,
+    "Line": "Замоскворецкая",
+    "Order": 0
+  },
+  {
+    "Name": "Водный стадион",
+    "Longitude": 37.487515,
+    "LineColor": "4FB04F",
+    "Latitude": 55.838978,
+    "Line": "Замоскворецкая",
+    "Order": 1
+  },
+  {
+    "Name": "Войковская",
+    "Longitude": 37.497791,
+    "LineColor": "4FB04F",
+    "Latitude": 55.818923,
+    "Line": "Замоскворецкая",
+    "Order": 2
+  },
+  {
+    "Name": "Сокол",
+    "Longitude": 37.515245,
+    "LineColor": "4FB04F",
+    "Latitude": 55.805564,
+    "Line": "Замоскворецкая",
+    "Order": 3
+  },
+  {
+    "Name": "Аэропорт",
+    "Longitude": 37.530477,
+    "LineColor": "4FB04F",
+    "Latitude": 55.800441,
+    "Line": "Замоскворецкая",
+    "Order": 4
+  },
+  {
+    "Name": "Динамо",
+    "Longitude": 37.558212,
+    "LineColor": "4FB04F",
+    "Latitude": 55.789704,
+    "Line": "Замоскворецкая",
+    "Order": 5
+  },
+  {
+    "Name": "Белорусская",
+    "Longitude": 37.582107,
+    "LineColor": "4FB04F",
+    "Latitude": 55.777439,
+    "Line": "Замоскворецкая",
+    "Order": 6
+  },
+  {
+    "Name": "Маяковская",
+    "Longitude": 37.596192,
+    "LineColor": "4FB04F",
+    "Latitude": 55.769808,
+    "Line": "Замоскворецкая",
+    "Order": 7
+  },
+  {
+    "Name": "Тверская",
+    "Longitude": 37.603918,
+    "LineColor": "4FB04F",
+    "Latitude": 55.765343,
+    "Line": "Замоскворецкая",
+    "Order": 8
+  },
+  {
+    "Name": "Театральная",
+    "Longitude": 37.61768,
+    "LineColor": "4FB04F",
+    "Latitude": 55.758808,
+    "Line": "Замоскворецкая",
+    "Order": 9
+  },
+  {
+    "Name": "Новокузнецкая",
+    "Longitude": 37.62928,
+    "LineColor": "4FB04F",
+    "Latitude": 55.742391,
+    "Line": "Замоскворецкая",
+    "Order": 10
+  },
+  {
+    "Name": "Павелецкая",
+    "Longitude": 37.638693,
+    "LineColor": "4FB04F",
+    "Latitude": 55.729741,
+    "Line": "Замоскворецкая",
+    "Order": 11
+  },
+  {
+    "Name": "Автозаводская",
+    "Longitude": 37.657008,
+    "LineColor": "4FB04F",
+    "Latitude": 55.706634,
+    "Line": "Замоскворецкая",
+    "Order": 12
+  },
+  {
+    "Name": "Технопарк",
+    "Longitude": 37.664167,
+    "LineColor": "4FB04F",
+    "Latitude": 55.695,
+    "Line": "Замоскворецкая",
+    "Order": 13
+  },
+  {
+    "Name": "Коломенская",
+    "Longitude": 37.663719,
+    "LineColor": "4FB04F",
+    "Latitude": 55.677423,
+    "Line": "Замоскворецкая",
+    "Order": 14
+  },
+  {
+    "Name": "Каширская",
+    "Longitude": 37.649683,
+    "LineColor": "4FB04F",
+    "Latitude": 55.655745,
+    "Line": "Замоскворецкая",
+    "Order": 15
+  },
+  {
+    "Name": "Кантемировская",
+    "Longitude": 37.656218,
+    "LineColor": "4FB04F",
+    "Latitude": 55.636107,
+    "Line": "Замоскворецкая",
+    "Order": 16
+  },
+  {
+    "Name": "Царицыно",
+    "Longitude": 37.669612,
+    "LineColor": "4FB04F",
+    "Latitude": 55.620982,
+    "Line": "Замоскворецкая",
+    "Order": 17
+  },
+  {
+    "Name": "Орехово",
+    "Longitude": 37.695214,
+    "LineColor": "4FB04F",
+    "Latitude": 55.61269,
+    "Line": "Замоскворецкая",
+    "Order": 18
+  },
+  {
+    "Name": "Домодедовская",
+    "Longitude": 37.717111,
+    "LineColor": "4FB04F",
+    "Latitude": 55.610131,
+    "Line": "Замоскворецкая",
+    "Order": 19
+  },
+  {
+    "Name": "Красногвардейская",
+    "Longitude": 37.742697,
+    "LineColor": "4FB04F",
+    "Latitude": 55.614075,
+    "Line": "Замоскворецкая",
+    "Order": 20
+  },
+  {
+    "Name": "Алма-Атинская",
+    "Longitude": 37.765678,
+    "LineColor": "4FB04F",
+    "Latitude": 55.63349,
+    "Line": "Замоскворецкая",
+    "Order": 21
+  },
+  {
+    "Name": "Медведково",
+    "Longitude": 37.661562,
+    "LineColor": "F07E24",
+    "Latitude": 55.888103,
+    "Line": "Калужско-Рижская",
+    "Order": 0
+  },
+  {
+    "Name": "Бабушкинская",
+    "Longitude": 37.664341,
+    "LineColor": "F07E24",
+    "Latitude": 55.870641,
+    "Line": "Калужско-Рижская",
+    "Order": 1
+  },
+  {
+    "Name": "Свиблово",
+    "Longitude": 37.653379,
+    "LineColor": "F07E24",
+    "Latitude": 55.855558,
+    "Line": "Калужско-Рижская",
+    "Order": 2
+  },
+  {
+    "Name": "Ботанический сад",
+    "Longitude": 37.637811,
+    "LineColor": "F07E24",
+    "Latitude": 55.844597,
+    "Line": "Калужско-Рижская",
+    "Order": 3
+  },
+  {
+    "Name": "ВДНХ",
+    "Longitude": 37.640751,
+    "LineColor": "F07E24",
+    "Latitude": 55.819626,
+    "Line": "Калужско-Рижская",
+    "Order": 4
+  },
+  {
+    "Name": "Алексеевская",
+    "Longitude": 37.638699,
+    "LineColor": "F07E24",
+    "Latitude": 55.807794,
+    "Line": "Калужско-Рижская",
+    "Order": 5
+  },
+  {
+    "Name": "Рижская",
+    "Longitude": 37.636114,
+    "LineColor": "F07E24",
+    "Latitude": 55.792494,
+    "Line": "Калужско-Рижская",
+    "Order": 6
+  },
+  {
+    "Name": "Проспект Мира",
+    "Longitude": 37.633199,
+    "LineColor": "F07E24",
+    "Latitude": 55.781827,
+    "Line": "Калужско-Рижская",
+    "Order": 7
+  },
+  {
+    "Name": "Сухаревская",
+    "Longitude": 37.63285,
+    "LineColor": "F07E24",
+    "Latitude": 55.772315,
+    "Line": "Калужско-Рижская",
+    "Order": 8
+  },
+  {
+    "Name": "Тургеневская",
+    "Longitude": 37.636732,
+    "LineColor": "F07E24",
+    "Latitude": 55.765371,
+    "Line": "Калужско-Рижская",
+    "Order": 9
+  },
+  {
+    "Name": "Китай-город",
+    "Longitude": 37.631326,
+    "LineColor": "F07E24",
+    "Latitude": 55.756498,
+    "Line": "Калужско-Рижская",
+    "Order": 10
+  },
+  {
+    "Name": "Третьяковская",
+    "Longitude": 37.625624,
+    "LineColor": "F07E24",
+    "Latitude": 55.74073,
+    "Line": "Калужско-Рижская",
+    "Order": 11
+  },
+  {
+    "Name": "Октябрьская",
+    "Longitude": 37.612851,
+    "LineColor": "F07E24",
+    "Latitude": 55.731232,
+    "Line": "Калужско-Рижская",
+    "Order": 12
+  },
+  {
+    "Name": "Шаболовская",
+    "Longitude": 37.607892,
+    "LineColor": "F07E24",
+    "Latitude": 55.718828,
+    "Line": "Калужско-Рижская",
+    "Order": 13
+  },
+  {
+    "Name": "Ленинский проспект",
+    "Longitude": 37.58499,
+    "LineColor": "F07E24",
+    "Latitude": 55.70678,
+    "Line": "Калужско-Рижская",
+    "Order": 14
+  },
+  {
+    "Name": "Академическая",
+    "Longitude": 37.5723,
+    "LineColor": "F07E24",
+    "Latitude": 55.687147,
+    "Line": "Калужско-Рижская",
+    "Order": 15
+  },
+  {
+    "Name": "Профсоюзная",
+    "Longitude": 37.562595,
+    "LineColor": "F07E24",
+    "Latitude": 55.677671,
+    "Line": "Калужско-Рижская",
+    "Order": 16
+  },
+  {
+    "Name": "Новые Черемушки",
+    "Longitude": 37.554493,
+    "LineColor": "F07E24",
+    "Latitude": 55.670077,
+    "Line": "Калужско-Рижская",
+    "Order": 17
+  },
+  {
+    "Name": "Калужская",
+    "Longitude": 37.540075,
+    "LineColor": "F07E24",
+    "Latitude": 55.656682,
+    "Line": "Калужско-Рижская",
+    "Order": 18
+  },
+  {
+    "Name": "Беляево",
+    "Longitude": 37.526115,
+    "LineColor": "F07E24",
+    "Latitude": 55.642357,
+    "Line": "Калужско-Рижская",
+    "Order": 19
+  },
+  {
+    "Name": "Коньково",
+    "Longitude": 37.519156,
+    "LineColor": "F07E24",
+    "Latitude": 55.631857,
+    "Line": "Калужско-Рижская",
+    "Order": 20
+  },
+  {
+    "Name": "Теплый Стан",
+    "Longitude": 37.505912,
+    "LineColor": "F07E24",
+    "Latitude": 55.61873,
+    "Line": "Калужско-Рижская",
+    "Order": 21
+  },
+  {
+    "Name": "Ясенево",
+    "Longitude": 37.5334,
+    "LineColor": "F07E24",
+    "Latitude": 55.606182,
+    "Line": "Калужско-Рижская",
+    "Order": 22
+  },
+  {
+    "Name": "Новоясеневская",
+    "Longitude": 37.553017,
+    "LineColor": "F07E24",
+    "Latitude": 55.601947,
+    "Line": "Калужско-Рижская",
+    "Order": 23
+  },
+  {
+    "Name": "Бульвар Рокоссовского",
+    "Longitude": 37.732227,
+    "LineColor": "E42313",
+    "Latitude": 55.814916,
+    "Line": "Сокольническая",
+    "Order": 0
+  },
+  {
+    "Name": "Черкизовская",
+    "Longitude": 37.744863,
+    "LineColor": "E42313",
+    "Latitude": 55.802787,
+    "Line": "Сокольническая",
+    "Order": 1
+  },
+  {
+    "Name": "Преображенская площадь",
+    "Longitude": 37.713582,
+    "LineColor": "E42313",
+    "Latitude": 55.796322,
+    "Line": "Сокольническая",
+    "Order": 2
+  },
+  {
+    "Name": "Сокольники",
+    "Longitude": 37.679895,
+    "LineColor": "E42313",
+    "Latitude": 55.789282,
+    "Line": "Сокольническая",
+    "Order": 3
+  },
+  {
+    "Name": "Красносельская",
+    "Longitude": 37.666097,
+    "LineColor": "E42313",
+    "Latitude": 55.780014,
+    "Line": "Сокольническая",
+    "Order": 4
+  },
+  {
+    "Name": "Комсомольская",
+    "Longitude": 37.654565,
+    "LineColor": "E42313",
+    "Latitude": 55.774072,
+    "Line": "Сокольническая",
+    "Order": 5
+  },
+  {
+    "Name": "Красные ворота",
+    "Longitude": 37.6478,
+    "LineColor": "E42313",
+    "Latitude": 55.768307,
+    "Line": "Сокольническая",
+    "Order": 6
+  },
+  {
+    "Name": "Чистые пруды",
+    "Longitude": 37.638293,
+    "LineColor": "E42313",
+    "Latitude": 55.76499,
+    "Line": "Сокольническая",
+    "Order": 7
+  },
+  {
+    "Name": "Лубянка",
+    "Longitude": 37.625336,
+    "LineColor": "E42313",
+    "Latitude": 55.759889,
+    "Line": "Сокольническая",
+    "Order": 8
+  },
+  {
+    "Name": "Охотный ряд",
+    "Longitude": 37.615078,
+    "LineColor": "E42313",
+    "Latitude": 55.757228,
+    "Line": "Сокольническая",
+    "Order": 9
+  },
+  {
+    "Name": "Библиотека им.Ленина",
+    "Longitude": 37.610388,
+    "LineColor": "E42313",
+    "Latitude": 55.752123,
+    "Line": "Сокольническая",
+    "Order": 10
+  },
+  {
+    "Name": "Кропоткинская",
+    "Longitude": 37.604217,
+    "LineColor": "E42313",
+    "Latitude": 55.745297,
+    "Line": "Сокольническая",
+    "Order": 11
+  },
+  {
+    "Name": "Парк культуры",
+    "Longitude": 37.595027,
+    "LineColor": "E42313",
+    "Latitude": 55.736163,
+    "Line": "Сокольническая",
+    "Order": 12
+  },
+  {
+    "Name": "Фрунзенская",
+    "Longitude": 37.58022,
+    "LineColor": "E42313",
+    "Latitude": 55.727462,
+    "Line": "Сокольническая",
+    "Order": 13
+  },
+  {
+    "Name": "Спортивная",
+    "Longitude": 37.562041,
+    "LineColor": "E42313",
+    "Latitude": 55.722388,
+    "Line": "Сокольническая",
+    "Order": 14
+  },
+  {
+    "Name": "Воробьевы горы",
+    "Longitude": 37.557293,
+    "LineColor": "E42313",
+    "Latitude": 55.709169,
+    "Line": "Сокольническая",
+    "Order": 15
+  },
+  {
+    "Name": "Университет",
+    "Longitude": 37.534511,
+    "LineColor": "E42313",
+    "Latitude": 55.69329,
+    "Line": "Сокольническая",
+    "Order": 16
+  },
+  {
+    "Name": "Проспект Вернадского",
+    "Longitude": 37.504584,
+    "LineColor": "E42313",
+    "Latitude": 55.676549,
+    "Line": "Сокольническая",
+    "Order": 17
+  },
+  {
+    "Name": "Юго-Западная",
+    "Longitude": 37.482852,
+    "LineColor": "E42313",
+    "Latitude": 55.663146,
+    "Line": "Сокольническая",
+    "Order": 18
+  },
+  {
+    "Name": "Тропарево",
+    "Longitude": 37.4725,
+    "LineColor": "E42313",
+    "Latitude": 55.6459,
+    "Line": "Сокольническая",
+    "Order": 19
+  },
+  {
+    "Name": "Румянцево",
+    "Longitude": 37.4419,
+    "LineColor": "E42313",
+    "Latitude": 55.633,
+    "Line": "Сокольническая",
+    "Order": 20
+  },
+  {
+    "Name": "Саларьево",
+    "Longitude": 37.424,
+    "LineColor": "E42313",
+    "Latitude": 55.6227,
+    "Line": "Сокольническая",
+    "Order": 21
+  },
+  {
+    "Name": "Щелковская",
+    "Longitude": 37.798261,
+    "LineColor": "0072BA",
+    "Latitude": 55.809962,
+    "Line": "Арбатско-Покровская",
+    "Order": 0
+  },
+  {
+    "Name": "Первомайская",
+    "Longitude": 37.799364,
+    "LineColor": "0072BA",
+    "Latitude": 55.794376,
+    "Line": "Арбатско-Покровская",
+    "Order": 1
+  },
+  {
+    "Name": "Измайловская",
+    "Longitude": 37.779896,
+    "LineColor": "0072BA",
+    "Latitude": 55.787713,
+    "Line": "Арбатско-Покровская",
+    "Order": 2
+  },
+  {
+    "Name": "Партизанская",
+    "Longitude": 37.74882,
+    "LineColor": "0072BA",
+    "Latitude": 55.788401,
+    "Line": "Арбатско-Покровская",
+    "Order": 3
+  },
+  {
+    "Name": "Семеновская",
+    "Longitude": 37.719289,
+    "LineColor": "0072BA",
+    "Latitude": 55.783096,
+    "Line": "Арбатско-Покровская",
+    "Order": 4
+  },
+  {
+    "Name": "Электрозаводская",
+    "Longitude": 37.7053,
+    "LineColor": "0072BA",
+    "Latitude": 55.782057,
+    "Line": "Арбатско-Покровская",
+    "Order": 5
+  },
+  {
+    "Name": "Бауманская",
+    "Longitude": 37.67904,
+    "LineColor": "0072BA",
+    "Latitude": 55.772405,
+    "Line": "Арбатско-Покровская",
+    "Order": 6
+  },
+  {
+    "Name": "Площадь Революции",
+    "Longitude": 37.62236,
+    "LineColor": "0072BA",
+    "Latitude": 55.756741,
+    "Line": "Арбатско-Покровская",
+    "Order": 7
+  },
+  {
+    "Name": "Курская",
+    "Longitude": 37.659039,
+    "LineColor": "0072BA",
+    "Latitude": 55.758564,
+    "Line": "Арбатско-Покровская",
+    "Order": 8
+  },
+  {
+    "Name": "Арбатская",
+    "Longitude": 37.60349,
+    "LineColor": "0072BA",
+    "Latitude": 55.752312,
+    "Line": "Арбатско-Покровская",
+    "Order": 9
+  },
+  {
+    "Name": "Смоленская",
+    "Longitude": 37.583802,
+    "LineColor": "0072BA",
+    "Latitude": 55.747713,
+    "Line": "Арбатско-Покровская",
+    "Order": 10
+  },
+  {
+    "Name": "Киевская",
+    "Longitude": 37.564132,
+    "LineColor": "0072BA",
+    "Latitude": 55.743117,
+    "Line": "Арбатско-Покровская",
+    "Order": 11
+  },
+  {
+    "Name": "Парк Победы",
+    "Longitude": 37.516865,
+    "LineColor": "0072BA",
+    "Latitude": 55.735679,
+    "Line": "Арбатско-Покровская",
+    "Order": 12
+  },
+  {
+    "Name": "Славянский бульвар",
+    "Longitude": 37.470973,
+    "LineColor": "0072BA",
+    "Latitude": 55.729542,
+    "Line": "Арбатско-Покровская",
+    "Order": 13
+  },
+  {
+    "Name": "Кунцевская",
+    "Longitude": 37.445123,
+    "LineColor": "0072BA",
+    "Latitude": 55.730634,
+    "Line": "Арбатско-Покровская",
+    "Order": 14
+  },
+  {
+    "Name": "Молодежная",
+    "Longitude": 37.415627,
+    "LineColor": "0072BA",
+    "Latitude": 55.741375,
+    "Line": "Арбатско-Покровская",
+    "Order": 15
+  },
+  {
+    "Name": "Крылатское",
+    "Longitude": 37.408139,
+    "LineColor": "0072BA",
+    "Latitude": 55.756842,
+    "Line": "Арбатско-Покровская",
+    "Order": 16
+  },
+  {
+    "Name": "Строгино",
+    "Longitude": 37.402405,
+    "LineColor": "0072BA",
+    "Latitude": 55.803831,
+    "Line": "Арбатско-Покровская",
+    "Order": 17
+  },
+  {
+    "Name": "Мякинино",
+    "Longitude": 37.385214,
+    "LineColor": "0072BA",
+    "Latitude": 55.823342,
+    "Line": "Арбатско-Покровская",
+    "Order": 18
+  },
+  {
+    "Name": "Волоколамская",
+    "Longitude": 37.382453,
+    "LineColor": "0072BA",
+    "Latitude": 55.835154,
+    "Line": "Арбатско-Покровская",
+    "Order": 19
+  },
+  {
+    "Name": "Митино",
+    "Longitude": 37.36122,
+    "LineColor": "0072BA",
+    "Latitude": 55.846098,
+    "Line": "Арбатско-Покровская",
+    "Order": 20
+  },
+  {
+    "Name": "Пятницкое шоссе",
+    "Longitude": 37.353108,
+    "LineColor": "0072BA",
+    "Latitude": 55.853634,
+    "Line": "Арбатско-Покровская",
+    "Order": 21
+  },
+  {
+    "Name": "Кунцевская",
+    "Longitude": 37.446754,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.730815,
+    "Line": "Филевская",
+    "Order": 0
+  },
+  {
+    "Name": "Пионерская",
+    "Longitude": 37.466728,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.736027,
+    "Line": "Филевская",
+    "Order": 1
+  },
+  {
+    "Name": "Филевский парк",
+    "Longitude": 37.483902,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.739665,
+    "Line": "Филевская",
+    "Order": 2
+  },
+  {
+    "Name": "Багратионовская",
+    "Longitude": 37.497042,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.743544,
+    "Line": "Филевская",
+    "Order": 3
+  },
+  {
+    "Name": "Фили",
+    "Longitude": 37.514035,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.746763,
+    "Line": "Филевская",
+    "Order": 4
+  },
+  {
+    "Name": "Кутузовская",
+    "Longitude": 37.5341,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.740544,
+    "Line": "Филевская",
+    "Order": 5
+  },
+  {
+    "Name": "Студенческая",
+    "Longitude": 37.54842,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.738761,
+    "Line": "Филевская",
+    "Order": 6
+  },
+  {
+    "Name": "Киевская",
+    "Longitude": 37.565425,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.743168,
+    "Line": "Филевская",
+    "Order": 7
+  },
+  {
+    "Name": "Смоленская",
+    "Longitude": 37.582173,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.749083,
+    "Line": "Филевская",
+    "Order": 8
+  },
+  {
+    "Name": "Арбатская",
+    "Longitude": 37.601553,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.752122,
+    "Line": "Филевская",
+    "Order": 9
+  },
+  {
+    "Name": "Александровский сад",
+    "Longitude": 37.608775,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.752255,
+    "Line": "Филевская",
+    "Order": 10
+  },
+  {
+    "Name": "Выставочная",
+    "Longitude": 37.542641,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.750243,
+    "Line": "Филевская",
+    "Order": 11
+  },
+  {
+    "Name": "Международная",
+    "Longitude": 37.533282,
+    "LineColor": "1EBCEF",
+    "Latitude": 55.748324,
+    "Line": "Филевская",
+    "Order": 12
+  },
+  {
+    "Name": "Алтуфьево",
+    "Longitude": 37.586473,
+    "LineColor": "ADACAC",
+    "Latitude": 55.899034,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 0
+  },
+  {
+    "Name": "Бибирево",
+    "Longitude": 37.603011,
+    "LineColor": "ADACAC",
+    "Latitude": 55.883868,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 1
+  },
+  {
+    "Name": "Отрадное",
+    "Longitude": 37.605066,
+    "LineColor": "ADACAC",
+    "Latitude": 55.864273,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 2
+  },
+  {
+    "Name": "Владыкино",
+    "Longitude": 37.590451,
+    "LineColor": "ADACAC",
+    "Latitude": 55.848236,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 3
+  },
+  {
+    "Name": "Петровско-Разумовская",
+    "Longitude": 37.575512,
+    "LineColor": "ADACAC",
+    "Latitude": 55.836565,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 4
+  },
+  {
+    "Name": "Тимирязевская",
+    "Longitude": 37.574498,
+    "LineColor": "ADACAC",
+    "Latitude": 55.81866,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 5
+  },
+  {
+    "Name": "Дмитровская",
+    "Longitude": 37.581734,
+    "LineColor": "ADACAC",
+    "Latitude": 55.808056,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 6
+  },
+  {
+    "Name": "Савеловская",
+    "Longitude": 37.587163,
+    "LineColor": "ADACAC",
+    "Latitude": 55.794054,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 7
+  },
+  {
+    "Name": "Менделеевская",
+    "Longitude": 37.599141,
+    "LineColor": "ADACAC",
+    "Latitude": 55.781999,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 8
+  },
+  {
+    "Name": "Цветной бульвар",
+    "Longitude": 37.620466,
+    "LineColor": "ADACAC",
+    "Latitude": 55.771653,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 9
+  },
+  {
+    "Name": "Чеховская",
+    "Longitude": 37.608493,
+    "LineColor": "ADACAC",
+    "Latitude": 55.765747,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 10
+  },
+  {
+    "Name": "Боровицкая",
+    "Longitude": 37.60934,
+    "LineColor": "ADACAC",
+    "Latitude": 55.750399,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 11
+  },
+  {
+    "Name": "Полянка",
+    "Longitude": 37.618594,
+    "LineColor": "ADACAC",
+    "Latitude": 55.736795,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 12
+  },
+  {
+    "Name": "Серпуховская",
+    "Longitude": 37.624792,
+    "LineColor": "ADACAC",
+    "Latitude": 55.726548,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 13
+  },
+  {
+    "Name": "Тульская",
+    "Longitude": 37.622569,
+    "LineColor": "ADACAC",
+    "Latitude": 55.70961,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 14
+  },
+  {
+    "Name": "Нагатинская",
+    "Longitude": 37.620917,
+    "LineColor": "ADACAC",
+    "Latitude": 55.682099,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 15
+  },
+  {
+    "Name": "Нагорная",
+    "Longitude": 37.610397,
+    "LineColor": "ADACAC",
+    "Latitude": 55.672962,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 16
+  },
+  {
+    "Name": "Нахимовский проспект",
+    "Longitude": 37.605274,
+    "LineColor": "ADACAC",
+    "Latitude": 55.662379,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 17
+  },
+  {
+    "Name": "Севастопольская",
+    "Longitude": 37.59809,
+    "LineColor": "ADACAC",
+    "Latitude": 55.651451,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 18
+  },
+  {
+    "Name": "Чертановская",
+    "Longitude": 37.606065,
+    "LineColor": "ADACAC",
+    "Latitude": 55.640538,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 19
+  },
+  {
+    "Name": "Южная",
+    "Longitude": 37.609047,
+    "LineColor": "ADACAC",
+    "Latitude": 55.622436,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 20
+  },
+  {
+    "Name": "Пражская",
+    "Longitude": 37.602386,
+    "LineColor": "ADACAC",
+    "Latitude": 55.610962,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 21
+  },
+  {
+    "Name": "Улица Академика Янгеля",
+    "Longitude": 37.601498,
+    "LineColor": "ADACAC",
+    "Latitude": 55.596753,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 22
+  },
+  {
+    "Name": "Аннино",
+    "Longitude": 37.596999,
+    "LineColor": "ADACAC",
+    "Latitude": 55.583477,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 23
+  },
+  {
+    "Name": "Бульвар Дмитрия Донского",
+    "Longitude": 37.576856,
+    "LineColor": "ADACAC",
+    "Latitude": 55.568201,
+    "Line": "Серпуховско-Тимирязевская",
+    "Order": 24
+  },
+  {
+    "Name": "Планерная",
+    "Longitude": 37.436808,
+    "LineColor": "943E90",
+    "Latitude": 55.859676,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 0
+  },
+  {
+    "Name": "Сходненская",
+    "Longitude": 37.44076,
+    "LineColor": "943E90",
+    "Latitude": 55.84926,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 1
+  },
+  {
+    "Name": "Тушинская",
+    "Longitude": 37.437024,
+    "LineColor": "943E90",
+    "Latitude": 55.825479,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 2
+  },
+  {
+    "Name": "Спартак",
+    "Longitude": 37.4352,
+    "LineColor": "943E90",
+    "Latitude": 55.8182,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 3
+  },
+  {
+    "Name": "Щукинская",
+    "Longitude": 37.463241,
+    "LineColor": "943E90",
+    "Latitude": 55.8094,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 4
+  },
+  {
+    "Name": "Октябрьское поле",
+    "Longitude": 37.493317,
+    "LineColor": "943E90",
+    "Latitude": 55.793581,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 5
+  },
+  {
+    "Name": "Полежаевская",
+    "Longitude": 37.517895,
+    "LineColor": "943E90",
+    "Latitude": 55.777201,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 6
+  },
+  {
+    "Name": "Беговая",
+    "Longitude": 37.545518,
+    "LineColor": "943E90",
+    "Latitude": 55.773505,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 7
+  },
+  {
+    "Name": "Улица 1905 года",
+    "Longitude": 37.562271,
+    "LineColor": "943E90",
+    "Latitude": 55.763944,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 8
+  },
+  {
+    "Name": "Баррикадная",
+    "Longitude": 37.581242,
+    "LineColor": "943E90",
+    "Latitude": 55.760793,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 9
+  },
+  {
+    "Name": "Пушкинская",
+    "Longitude": 37.604356,
+    "LineColor": "943E90",
+    "Latitude": 55.765607,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 10
+  },
+  {
+    "Name": "Кузнецкий мост",
+    "Longitude": 37.624423,
+    "LineColor": "943E90",
+    "Latitude": 55.761498,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 11
+  },
+  {
+    "Name": "Китай-город",
+    "Longitude": 37.633877,
+    "LineColor": "943E90",
+    "Latitude": 55.75436,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 12
+  },
+  {
+    "Name": "Таганская",
+    "Longitude": 37.653605,
+    "LineColor": "943E90",
+    "Latitude": 55.739502,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 13
+  },
+  {
+    "Name": "Пролетарская",
+    "Longitude": 37.666917,
+    "LineColor": "943E90",
+    "Latitude": 55.731546,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 14
+  },
+  {
+    "Name": "Волгоградский проспект",
+    "Longitude": 37.685197,
+    "LineColor": "943E90",
+    "Latitude": 55.725546,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 15
+  },
+  {
+    "Name": "Текстильщики",
+    "Longitude": 37.732117,
+    "LineColor": "943E90",
+    "Latitude": 55.709211,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 16
+  },
+  {
+    "Name": "Кузьминки",
+    "Longitude": 37.763295,
+    "LineColor": "943E90",
+    "Latitude": 55.705493,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 17
+  },
+  {
+    "Name": "Рязанский проспект",
+    "Longitude": 37.792694,
+    "LineColor": "943E90",
+    "Latitude": 55.716139,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 18
+  },
+  {
+    "Name": "Выхино",
+    "Longitude": 37.816788,
+    "LineColor": "943E90",
+    "Latitude": 55.715983,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 19
+  },
+  {
+    "Name": "Лермонтовский проспект",
+    "Longitude": 37.851044,
+    "LineColor": "943E90",
+    "Latitude": 55.702036,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 20
+  },
+  {
+    "Name": "Жулебино",
+    "Longitude": 37.855833,
+    "LineColor": "943E90",
+    "Latitude": 55.684722,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 21
+  },
+  {
+    "Name": "Котельники",
+    "Longitude": 37.8582,
+    "LineColor": "943E90",
+    "Latitude": 55.6743,
+    "Line": "Таганско-Краснопресненская",
+    "Order": 22
+  },
+  {
+    "Name": "Новослободская",
+    "Longitude": 37.601252,
+    "LineColor": "915133",
+    "Latitude": 55.779606,
+    "Line": "Кольцевая",
+    "Order": 0
+  },
+  {
+    "Name": "Проспект Мира",
+    "Longitude": 37.633646,
+    "LineColor": "915133",
+    "Latitude": 55.779584,
+    "Line": "Кольцевая",
+    "Order": 1
+  },
+  {
+    "Name": "Комсомольская",
+    "Longitude": 37.654772,
+    "LineColor": "915133",
+    "Latitude": 55.775672,
+    "Line": "Кольцевая",
+    "Order": 2
+  },
+  {
+    "Name": "Курская",
+    "Longitude": 37.661059,
+    "LineColor": "915133",
+    "Latitude": 55.758631,
+    "Line": "Кольцевая",
+    "Order": 3
+  },
+  {
+    "Name": "Таганская",
+    "Longitude": 37.653334,
+    "LineColor": "915133",
+    "Latitude": 55.742396,
+    "Line": "Кольцевая",
+    "Order": 4
+  },
+  {
+    "Name": "Павелецкая",
+    "Longitude": 37.636294,
+    "LineColor": "915133",
+    "Latitude": 55.731414,
+    "Line": "Кольцевая",
+    "Order": 5
+  },
+  {
+    "Name": "Добрынинская",
+    "Longitude": 37.622533,
+    "LineColor": "915133",
+    "Latitude": 55.728994,
+    "Line": "Кольцевая",
+    "Order": 6
+  },
+  {
+    "Name": "Октябрьская",
+    "Longitude": 37.611049,
+    "LineColor": "915133",
+    "Latitude": 55.729264,
+    "Line": "Кольцевая",
+    "Order": 7
+  },
+  {
+    "Name": "Парк культуры",
+    "Longitude": 37.593095,
+    "LineColor": "915133",
+    "Latitude": 55.735221,
+    "Line": "Кольцевая",
+    "Order": 8
+  },
+  {
+    "Name": "Киевская",
+    "Longitude": 37.56735,
+    "LineColor": "915133",
+    "Latitude": 55.74361,
+    "Line": "Кольцевая",
+    "Order": 10
+  },
+  {
+    "Name": "Краснопресненская",
+    "Longitude": 37.577114,
+    "LineColor": "915133",
+    "Latitude": 55.760378,
+    "Line": "Кольцевая",
+    "Order": 11
+  },
+  {
+    "Name": "Белорусская",
+    "Longitude": 37.582303,
+    "LineColor": "915133",
+    "Latitude": 55.775179,
+    "Line": "Кольцевая",
+    "Order": 12
+  },
+  {
+    "Name": "Петровско-Разумовская",
+    "Longitude": 37.575556,
+    "LineColor": "BED12C",
+    "Latitude": 55.836667,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 0
+  },
+  {
+    "Name": "Фонвизинская",
+    "Longitude": 37.588056,
+    "LineColor": "BED12C",
+    "Latitude": 55.822778,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 1
+  },
+  {
+    "Name": "Бутырская ",
+    "Longitude": 37.602778,
+    "LineColor": "BED12C",
+    "Latitude": 55.813333,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 2
+  },
+  {
+    "Name": "Марьина Роща",
+    "Longitude": 37.61618,
+    "LineColor": "BED12C",
+    "Latitude": 55.793723,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 3
+  },
+  {
+    "Name": "Достоевская",
+    "Longitude": 37.613889,
+    "LineColor": "BED12C",
+    "Latitude": 55.781667,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 4
+  },
+  {
+    "Name": "Трубная",
+    "Longitude": 37.621926,
+    "LineColor": "BED12C",
+    "Latitude": 55.76771,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 5
+  },
+  {
+    "Name": "Сретенский бульвар",
+    "Longitude": 37.635688,
+    "LineColor": "BED12C",
+    "Latitude": 55.766106,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 6
+  },
+  {
+    "Name": "Чкаловская",
+    "Longitude": 37.659293,
+    "LineColor": "BED12C",
+    "Latitude": 55.755951,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 7
+  },
+  {
+    "Name": "Римская",
+    "Longitude": 37.679996,
+    "LineColor": "BED12C",
+    "Latitude": 55.747027,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 8
+  },
+  {
+    "Name": "Крестьянская застава",
+    "Longitude": 37.665325,
+    "LineColor": "BED12C",
+    "Latitude": 55.732278,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 9
+  },
+  {
+    "Name": "Дубровка",
+    "Longitude": 37.676259,
+    "LineColor": "BED12C",
+    "Latitude": 55.71807,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 10
+  },
+  {
+    "Name": "Кожуховская",
+    "Longitude": 37.68544,
+    "LineColor": "BED12C",
+    "Latitude": 55.706156,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 11
+  },
+  {
+    "Name": "Печатники",
+    "Longitude": 37.728338,
+    "LineColor": "BED12C",
+    "Latitude": 55.692921,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 12
+  },
+  {
+    "Name": "Волжская",
+    "Longitude": 37.754314,
+    "LineColor": "BED12C",
+    "Latitude": 55.690446,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 13
+  },
+  {
+    "Name": "Люблино",
+    "Longitude": 37.761639,
+    "LineColor": "BED12C",
+    "Latitude": 55.676596,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 14
+  },
+  {
+    "Name": "Братиславская",
+    "Longitude": 37.748415,
+    "LineColor": "BED12C",
+    "Latitude": 55.658817,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 15
+  },
+  {
+    "Name": "Марьино",
+    "Longitude": 37.743844,
+    "LineColor": "BED12C",
+    "Latitude": 55.649158,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 16
+  },
+  {
+    "Name": "Борисово",
+    "Longitude": 37.743333,
+    "LineColor": "BED12C",
+    "Latitude": 55.6325,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 17
+  },
+  {
+    "Name": "Шипиловская",
+    "Longitude": 37.743611,
+    "LineColor": "BED12C",
+    "Latitude": 55.621667,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 18
+  },
+  {
+    "Name": "Зябликово",
+    "Longitude": 37.745278,
+    "LineColor": "BED12C",
+    "Latitude": 55.611944,
+    "Line": "Люблинско-Дмитровская",
+    "Order": 19
+  },
+  {
+    "Name": "Каширская",
+    "Longitude": 37.647705,
+    "LineColor": "88CDCF",
+    "Latitude": 55.654327,
+    "Line": "Каховская",
+    "Order": 0
+  },
+  {
+    "Name": "Варшавская",
+    "Longitude": 37.619522,
+    "LineColor": "88CDCF",
+    "Latitude": 55.653294,
+    "Line": "Каховская",
+    "Order": 1
+  },
+  {
+    "Name": "Каховская",
+    "Longitude": 37.596573,
+    "LineColor": "88CDCF",
+    "Latitude": 55.652923,
+    "Line": "Каховская",
+    "Order": 2
+  },
+  {
+    "Name": "Бунинская аллея",
+    "Longitude": 37.515899,
+    "LineColor": "BAC8E8",
+    "Latitude": 55.537977,
+    "Line": "Бутовская",
+    "Order": 0
+  },
+  {
+    "Name": "Улица Горчакова",
+    "Longitude": 37.532063,
+    "LineColor": "BAC8E8",
+    "Latitude": 55.542281,
+    "Line": "Бутовская",
+    "Order": 1
+  },
+  {
+    "Name": "Бульвар Адмирала Ушакова",
+    "Longitude": 37.542329,
+    "LineColor": "BAC8E8",
+    "Latitude": 55.545207,
+    "Line": "Бутовская",
+    "Order": 2
+  },
+  {
+    "Name": "Улица Скобелевская",
+    "Longitude": 37.552721,
+    "LineColor": "BAC8E8",
+    "Latitude": 55.548103,
+    "Line": "Бутовская",
+    "Order": 3
+  },
+  {
+    "Name": "Улица Старокачаловская",
+    "Longitude": 37.576074,
+    "LineColor": "BAC8E8",
+    "Latitude": 55.569194,
+    "Line": "Бутовская",
+    "Order": 4
+  },
+  {
+    "Name": "Лесопарковая",
+    "Longitude": 37.577816,
+    "LineColor": "BAC8E8",
+    "Latitude": 55.581656,
+    "Line": "Бутовская",
+    "Order": 5
+  },
+  {
+    "Name": "Битцевский Парк",
+    "Longitude": 37.556058,
+    "LineColor": "BAC8E8",
+    "Latitude": 55.600066,
+    "Line": "Бутовская",
+    "Order": 6
+  },
+  {
+    "Name": "Окружная",
+    "Longitude": 37.571111,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.848889,
+    "Line": "Московское центральное кольцо",
+    "Order": 0
+  },
+  {
+    "Name": "Владыкино",
+    "Longitude": 37.591944,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.847222,
+    "Line": "Московское центральное кольцо",
+    "Order": 1
+  },
+  {
+    "Name": "Ботанический сад",
+    "Longitude": 37.640278,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.845556,
+    "Line": "Московское центральное кольцо",
+    "Order": 2
+  },
+  {
+    "Name": "Ростокино",
+    "Longitude": 37.667778,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.839444,
+    "Line": "Московское центральное кольцо",
+    "Order": 3
+  },
+  {
+    "Name": "Белокаменная",
+    "Longitude": 37.700556,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.83,
+    "Line": "Московское центральное кольцо",
+    "Order": 4
+  },
+  {
+    "Name": "Бульвар Рокоссовского",
+    "Longitude": 37.736944,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.817222,
+    "Line": "Московское центральное кольцо",
+    "Order": 5
+  },
+  {
+    "Name": "Локомотив",
+    "Longitude": 37.745742,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.803219,
+    "Line": "Московское центральное кольцо",
+    "Order": 6
+  },
+  {
+    "Name": "Измайлово",
+    "Longitude": 37.742778,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.788611,
+    "Line": "Московское центральное кольцо",
+    "Order": 7
+  },
+  {
+    "Name": "Соколиная Гора",
+    "Longitude": 37.745278,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.77,
+    "Line": "Московское центральное кольцо",
+    "Order": 8
+  },
+  {
+    "Name": "Шоссе Энтузиастов",
+    "Longitude": 37.748477,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.758633,
+    "Line": "Московское центральное кольцо",
+    "Order": 9
+  },
+  {
+    "Name": "Андроновка",
+    "Longitude": 37.734444,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.741111,
+    "Line": "Московское центральное кольцо",
+    "Order": 10
+  },
+  {
+    "Name": "Нижегородская",
+    "Longitude": 37.72825,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.732222,
+    "Line": "Московское центральное кольцо",
+    "Order": 11
+  },
+  {
+    "Name": "Новохохловская",
+    "Longitude": 37.716111,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.723889,
+    "Line": "Московское центральное кольцо",
+    "Order": 12
+  },
+  {
+    "Name": "Угрешская",
+    "Longitude": 37.697778,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.718333,
+    "Line": "Московское центральное кольцо",
+    "Order": 13
+  },
+  {
+    "Name": "Дубровка",
+    "Longitude": 37.677775,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.71268,
+    "Line": "Московское центральное кольцо",
+    "Order": 14
+  },
+  {
+    "Name": "Автозаводская",
+    "Longitude": 37.66314,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.70631,
+    "Line": "Московское центральное кольцо",
+    "Order": 15
+  },
+  {
+    "Name": "ЗИЛ",
+    "Longitude": 37.648333,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.698333,
+    "Line": "Московское центральное кольцо",
+    "Order": 16
+  },
+  {
+    "Name": "Верхние Котлы",
+    "Longitude": 37.618889,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.69,
+    "Line": "Московское центральное кольцо",
+    "Order": 17
+  },
+  {
+    "Name": "Крымская",
+    "Longitude": 37.605,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.690038,
+    "Line": "Московское центральное кольцо",
+    "Order": 18
+  },
+  {
+    "Name": "Площадь Гагарина",
+    "Longitude": 37.585833,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.706944,
+    "Line": "Московское центральное кольцо",
+    "Order": 19
+  },
+  {
+    "Name": "Лужники",
+    "Longitude": 37.563056,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.720278,
+    "Line": "Московское центральное кольцо",
+    "Order": 20
+  },
+  {
+    "Name": "Кутузовская",
+    "Longitude": 37.533333,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.740833,
+    "Line": "Московское центральное кольцо",
+    "Order": 21
+  },
+  {
+    "Name": "Деловой центр",
+    "Longitude": 37.532222,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.747222,
+    "Line": "Московское центральное кольцо",
+    "Order": 22
+  },
+  {
+    "Name": "Шелепиха",
+    "Longitude": 37.525556,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.7575,
+    "Line": "Московское центральное кольцо",
+    "Order": 23
+  },
+  {
+    "Name": "Хорошево",
+    "Longitude": 37.507222,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.777222,
+    "Line": "Московское центральное кольцо",
+    "Order": 24
+  },
+  {
+    "Name": "Зорге",
+    "Longitude": 37.504444,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.787778,
+    "Line": "Московское центральное кольцо",
+    "Order": 25
+  },
+  {
+    "Name": "Панфиловская",
+    "Longitude": 37.498889,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.799167,
+    "Line": "Московское центральное кольцо",
+    "Order": 26
+  },
+  {
+    "Name": "Стрешнево",
+    "Longitude": 37.486944,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.813611,
+    "Line": "Московское центральное кольцо",
+    "Order": 27
+  },
+  {
+    "Name": "Балтийская",
+    "Longitude": 37.496111,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.825833,
+    "Line": "Московское центральное кольцо",
+    "Order": 28
+  },
+  {
+    "Name": "Коптево",
+    "Longitude": 37.520037,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.839637,
+    "Line": "Московское центральное кольцо",
+    "Order": 29
+  },
+  {
+    "Name": "Лихоборы",
+    "Longitude": 37.551389,
+    "LineColor": "F9BCD1",
+    "Latitude": 55.847222,
+    "Line": "Московское центральное кольцо",
+    "Order": 30
+  },
+  {
+    "Name": "Тимирязевская",
+    "Longitude": 37.578882,
+    "LineColor": "006DA8",
+    "Latitude": 55.819049,
+    "Line": "Монорельс",
+    "Order": 0
+  },
+  {
+    "Name": "Улица Милашенкова",
+    "Longitude": 37.591206,
+    "LineColor": "006DA8",
+    "Latitude": 55.821876,
+    "Line": "Монорельс",
+    "Order": 1
+  },
+  {
+    "Name": "Телецентр",
+    "Longitude": 37.608975,
+    "LineColor": "006DA8",
+    "Latitude": 55.821795,
+    "Line": "Монорельс",
+    "Order": 2
+  },
+  {
+    "Name": "Улица Академика Королёва",
+    "Longitude": 37.627167,
+    "LineColor": "006DA8",
+    "Latitude": 55.821821,
+    "Line": "Монорельс",
+    "Order": 3
+  },
+  {
+    "Name": "Выставочный центр",
+    "Longitude": 37.638494,
+    "LineColor": "006DA8",
+    "Latitude": 55.824086,
+    "Line": "Монорельс",
+    "Order": 4
+  },
+  {
+    "Name": "Улица Сергея Эйзенштейна",
+    "Longitude": 37.644997,
+    "LineColor": "006DA8",
+    "Latitude": 55.829305,
+    "Line": "Монорельс",
+    "Order": 5
+  }
+]
