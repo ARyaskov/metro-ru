@@ -19,6 +19,7 @@ for calculating a distance between given coordinate and station:
 
 - add English translation of stations names
 - add an address of each station
+- minify data files
 
 # API
 
