@@ -1,6 +1,6 @@
 import transliterate from "@sindresorhus/transliterate"
 import haversine from "haversine"
-let moscowMetroData = require("./data/moscow.json")
+import moscowMetroData from "./data/moscow.json"
 import { MetroStation } from "./metro.js"
 
 export enum LineColorsMnemonicRu {
