@@ -1,0 +1,57 @@
+{
+  "name": "@riaskov/metro-ru",
+  "description": "Russian metro stations data",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "metro",
+    "subway",
+    "moscow",
+    "saint-petersburg",
+    "ekaterinburg",
+    "russia",
+    "russian",
+    "stations"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARyaskov/metro-ru.git"
+  },
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "type": "module",
+  "types": "dist/types/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "author": {
+    "name": "Andrei Riaskov",
+    "email": "code@riaskov.com"
+  },
+  "scripts": {
+    "rollup": "rollup -c",
+    "build": "yarn build:esm && yarn build:cjs && yarn build:types && yarn rollup",
+    "build:types": "tsc --project tsconfig.types.json",
+    "build:esm": "rimraf dist/esm && tsc --project tsconfig.esm.json",
+    "build:cjs": "rimraf dist/cjs && tsc --project tsconfig.cjs.json",
+    "format": "prettier --write \"src/**/*.{ts,tsx}\"",
+    "test": "tsx src/test.ts"
+  },
+  "dependencies": {
+    "@sindresorhus/transliterate": "^1.6.0",
+    "haversine": "^1.1.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@types/node": "^20.14.2",
+    "copyfiles": "^2.4.1",
+    "prettier": "^4.0.0-alpha.8",
+    "rollup": "^4.18.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "rimraf": "^5.0.7",
+    "tslib": "^2.6.3",
+    "tsx": "^4.10.5",
+    "typescript": "^5.5.1-rc"
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Проспект Космонавтов",
+    "Latitude": 56.900192,
+    "Longitude": 60.613822,
+    "LineColor":"#008100",
+    "Line": "Первая",
+    "Order": 0
+  },
+  {
+    "Name": "Уралмаш",
+    "Latitude": 56.888560,
+    "Longitude": 60.613623,
+    "LineColor":"#008100",
+    "Line": "Первая",
+    "Order": 1
+  },
+  {
+    "Name": "Машиностроителей",
+    "Latitude": 56.878521,
+    "Longitude": 60.612185,
+    "LineColor":"#008100",
+    "Line": "Первая",
+    "Order": 2
+  },
+  {
+    "Name": "Уральская",
+    "Latitude": 56.858041,
+    "Longitude": 60.600908,
+    "LineColor":"#008100",
+    "Line": "Первая",
+    "Order": 3
+  },
+  {
+    "Name": "Динамо",
+    "Latitude": 56.847823,
+    "Longitude": 60.599412,
+    "LineColor":"#008100",
+    "Line": "Первая",
+    "Order": 4
+  },
+  {
+    "Name": "Площадь 1905 года",
+    "Latitude": 56.847823,
+    "Longitude": 60.599412,
+    "LineColor":"#008100",
+    "Line": "Первая",
+    "Order": 4
+  },
+  {
+    "Name": "Геологическая",
+    "Latitude": 56.826717,
+    "Longitude": 60.603755,
+    "LineColor":"#008100",
+    "Line": "Первая",
+    "Order": 5
+  },
+  {
+    "Name": "Чкаловская",
+    "Latitude": 56.826717,
+    "Longitude": 60.603755,
+    "LineColor":"#008100",
+    "Line": "Первая",
+    "Order": 6
+  },
+  {
+    "Name": "Ботаническая",
+    "Latitude": 56.797375,
+    "Longitude": 60.632285,
+    "LineColor":"#008100",
+    "Line": "Первая",
+    "Order": 7
+  }
+]
