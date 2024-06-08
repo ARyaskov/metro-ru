@@ -34,8 +34,8 @@ export function getClosestEkaterinburgStation(
     {
       name: closest.Name,
       nameTranslit: transliterate(closest.Name),
-      lon: closest.Longitude,
       lat: closest.Latitude,
+      lon: closest.Longitude,
       lineColor: "#" + closest.LineColor,
       lineName: closest.Line,
       lineNameTranslit: transliterate(closest.Line),
@@ -69,8 +69,8 @@ export function getClosestEkaterinburgStations(
     {
       name: station.Name,
       nameTranslit: transliterate(station.Name),
-      lon: station.Longitude,
       lat: station.Latitude,
+      lon: station.Longitude,
       lineColor: "#" + station.LineColor,
       lineName: station.Line,
       lineNameTranslit: transliterate(station.Line),

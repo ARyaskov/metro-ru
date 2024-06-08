@@ -82,8 +82,8 @@ export function getClosestMoscowStations(
     {
       name: station.Name,
       nameTranslit: transliterate(station.Name),
-      lon: station.Longitude,
       lat: station.Latitude,
+      lon: station.Longitude,
       lineColor: "#" + station.LineColor,
       lineName: station.Line,
       lineNameTranslit: transliterate(station.Line),
@@ -102,8 +102,8 @@ export function getMoscowStationsByLineColor(
     .map((station) => ({
       name: station.Name,
       nameTranslit: transliterate(station.Name),
-      lon: station.Longitude,
       lat: station.Latitude,
+      lon: station.Longitude,
       lineColor: "#" + station.LineColor,
       lineName: station.Line,
       lineNameTranslit: transliterate(station.Line),

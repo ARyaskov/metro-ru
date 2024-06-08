@@ -1,6 +1,11 @@
-import { getClosestMoscowStation, getMoscowStationNames } from "./moscow.js"
+import {
+  getClosestMoscowStation,
+  getClosestMoscowStations,
+  getMoscowStationNames,
+} from "./moscow.js"
 import {
   getClosestEkaterinburgStation,
+  getClosestEkaterinburgStations,
   getEkaterinburgStationNames,
 } from "./ekaterinburg.js"
 
@@ -17,8 +22,8 @@ export enum City {
 export interface MetroStation {
   name: string
   nameTranslit: string
-  lon: number
   lat: number
+  lon: number
   lineColor: string
   lineName: string
   lineNameTranslit: string
@@ -35,6 +40,22 @@ export function getClosestStation(
       return getClosestMoscowStation(lat, lon)
     case City.Ekaterinburg:
       return getClosestEkaterinburgStation(lat, lon)
+    default:
+      return null
+  }
+}
+
+export function getClosestStations(
+  city: City,
+  lat: number,
+  lon: number,
+  n: number,
+): [MetroStation, number][] | null {
+  switch (city) {
+    case City.Moscow:
+      return getClosestMoscowStations(lat, lon, n)
+    case City.Ekaterinburg:
+      return getClosestEkaterinburgStations(lat, lon, n)
     default:
       return null
   }

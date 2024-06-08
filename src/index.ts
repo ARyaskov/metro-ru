@@ -1,4 +1,8 @@
-import { getStationNames, getClosestStation } from "./metro.js"
+import {
+  getStationNames,
+  getClosestStation,
+  getClosestStations,
+} from "./metro.js"
 import {
   getMoscowStationsByLineColor,
   getMoscowStationNames,
@@ -15,6 +19,7 @@ import {
 
 export {
   getClosestStation,
+  getClosestStations,
   getStationNames,
   getMoscowStationNames,
   LineColorsMnemonicRu,
