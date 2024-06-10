@@ -20,7 +20,6 @@ for calculating a distance between given coordinate and station (using [Haversin
 - add English translation of stations names
 - add an address of each station
 - minify data files
-- some Moscow Salatovaya branch new stations are absent
 - create a common data dir in bundle
 - automatically push browser minified version to CDN
 

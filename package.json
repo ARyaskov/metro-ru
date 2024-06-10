@@ -30,12 +30,12 @@
     "email": "code@riaskov.com"
   },
   "scripts": {
-    "build": "yarn format && yarn build:esm && yarn build:cjs && yarn build:types && yarn rollup && yarn tree-shaking:dist",
+    "build": "rimraf dist/ && yarn format && yarn build:esm && yarn build:cjs && yarn build:types && yarn rollup && yarn tree-shaking:dist && copyfiles README.md dist/",
     "build:types": "tsc --project tsconfig.types.json",
     "build:esm": "rimraf dist/esm && tsc --project tsconfig.esm.json",
     "build:cjs": "rimraf dist/cjs && tsc --project tsconfig.cjs.json",
     "rollup": "rollup -c",
-    "tree-shaking:dist": "rimraf --glob dist/types/*.map && rimraf dist/types/data",
+    "tree-shaking:dist": "rimraf --glob dist/types/*.map && rimraf dist/types/data && rimraf --glob dist/cjs/*.d.ts && rimraf --glob dist/esm/*.d.ts",
     "format": "prettier --write \"src/**/*.{ts,tsx}\"",
     "test": "tsx src/test.ts"
   },
