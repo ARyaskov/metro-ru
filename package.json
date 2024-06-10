@@ -1,7 +1,7 @@
 {
   "name": "@riaskov/metro-ru",
   "description": "Russian metro stations data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "keywords": [
     "metro",
@@ -35,7 +35,7 @@
     "build:esm": "rimraf dist/esm && tsc --project tsconfig.esm.json",
     "build:cjs": "rimraf dist/cjs && tsc --project tsconfig.cjs.json",
     "rollup": "rollup -c",
-    "tree-shaking:dist": "rimraf --glob dist/types/*.map",
+    "tree-shaking:dist": "rimraf --glob dist/types/*.map && rimraf dist/types/data",
     "format": "prettier --write \"src/**/*.{ts,tsx}\"",
     "test": "tsx src/test.ts"
   },
