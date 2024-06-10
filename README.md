@@ -22,6 +22,7 @@ for calculating a distance between given coordinate and station (using [Haversin
 - minify data files
 - create a common data dir in bundle
 - automatically push browser minified version to CDN
+- create super-minimal (<10 KBytes) version for browser
 
 # API
 
