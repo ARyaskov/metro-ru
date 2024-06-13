@@ -11,8 +11,8 @@ import {
 
 export enum City {
   Moscow = "Moscow",
-  SaintPetersburg = "Saint Petersburg",
-  NizhnyNovgorod = "Nizhny Novgorod",
+  SaintPetersburg = "SaintPetersburg",
+  NizhnyNovgorod = "NizhnyNovgorod",
   Kazan = "Kazan",
   Novosibirsk = "Novosibirsk",
   Ekaterinburg = "Ekaterinburg",
