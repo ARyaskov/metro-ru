@@ -1,7 +1,7 @@
 {
   "name": "@riaskov/metro-ru",
   "description": "Russian metro stations data",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "keywords": [
     "metro",
@@ -54,6 +54,6 @@
     "rimraf": "^5.0.7",
     "tslib": "^2.6.3",
     "tsx": "^4.10.5",
-    "typescript": "^5.5.1-rc"
+    "typescript": "5.4.5"
   }
 }
