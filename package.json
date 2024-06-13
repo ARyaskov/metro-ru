@@ -1,7 +1,7 @@
 {
   "name": "@riaskov/metro-ru",
   "description": "Russian metro stations data",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "license": "MIT",
   "keywords": [
     "metro",
@@ -20,7 +20,18 @@
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "type": "module",
-  "types": "dist/types/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/esm/index.d.ts",
+        "default": "./dist/esm/index.js"
+      },
+      "require": {
+        "types": "./dist/cjs/index.d.ts",
+        "default": "./dist/cjs/index.js"
+      }
+    }
+  },
   "files": [
     "dist",
     "README.md"
@@ -30,12 +41,12 @@
     "email": "code@riaskov.com"
   },
   "scripts": {
-    "build": "rimraf dist/ && yarn format && yarn build:esm && yarn build:cjs && yarn build:types && yarn rollup && yarn tree-shaking:dist && copyfiles README.md dist/",
+    "build": "rimraf dist/ && yarn format && yarn build:esm && yarn build:cjs && yarn rollup && yarn tree-shaking:dist && copyfiles README.md dist/",
     "build:types": "tsc --project tsconfig.types.json",
     "build:esm": "rimraf dist/esm && tsc --project tsconfig.esm.json",
     "build:cjs": "rimraf dist/cjs && tsc --project tsconfig.cjs.json",
     "rollup": "rollup -c",
-    "tree-shaking:dist": "rimraf --glob dist/types/*.map && rimraf dist/types/data && rimraf --glob dist/cjs/*.d.ts && rimraf --glob dist/esm/*.d.ts",
+    "tree-shaking:dist": "rimraf --glob dist/types/*.map && rimraf dist/types/data",
     "format": "prettier --write \"src/**/*.{ts,tsx}\"",
     "test": "tsx src/test.ts"
   },

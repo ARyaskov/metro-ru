@@ -20,7 +20,7 @@ export default {
         format: 'es'
     },
     plugins: [
-        typescript(),
+        typescript({tsconfig: resolve(__dirname, 'tsconfig.esm.json')}),
         terser(),
         json()
     ]
