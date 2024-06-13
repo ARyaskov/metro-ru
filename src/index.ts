@@ -2,7 +2,7 @@ import {
   getStationNames,
   getClosestStation,
   getClosestStations,
-  City
+  City,
 } from "./metro.js"
 import {
   getMoscowStationsByLineColor,
@@ -31,5 +31,5 @@ export {
   getEkaterinburgStationNames,
   getClosestEkaterinburgStation,
   getClosestEkaterinburgStations,
-  City
+  City,
 }
