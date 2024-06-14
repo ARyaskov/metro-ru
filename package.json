@@ -19,14 +19,8 @@
   },
   "exports": {
     ".": {
-      "import": {
-        "types": "./dist/esm/index.d.ts",
-        "default": "./dist/esm/metro-ru.min.mjs"
-      },
-      "require": {
-        "types": "./dist/cjs/esm/index.d.ts",
-        "default": "./dist/cjs/metro-ru.min.cjs"
-      }
+      "import": "./dist/esm/metro-ru.min.mjs",
+      "require": "./dist/cjs/metro-ru.min.cjs"
     }
   },
   "main": "./dist/cjs/metro-ru.min.cjs",
