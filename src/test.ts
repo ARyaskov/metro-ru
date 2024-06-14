@@ -1,10 +1,3 @@
-import {
-  getClosestEkaterinburgStations,
-  getClosestMoscowStation,
-  getClosestMoscowStations,
-  getClosestStation,
-  getStationNames,
-} from "./index.js"
 import { City, getClosestStations } from "./metro.js"
 
 async function main() {
