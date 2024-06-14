@@ -21,11 +21,11 @@ const version = packageJson.version;
 
 const minifiedOutputs = [
     {
-        file: pkg.exports['.'].import,
+        file: pkg.exports['.'].import.default,
         format: 'esm',
     },
     {
-        file: pkg.exports['.'].require,
+        file: pkg.exports['.'].require.default,
         format: 'cjs',
     }
 ];
