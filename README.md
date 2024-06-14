@@ -23,7 +23,6 @@ for calculating a distance between given coordinate and station (using [Haversin
 - create a common data dir in bundle
 - automatically push browser minified version to CDN
 - create super-minimal (<10 KBytes; now it's 40 KBytes) version for browser
-- weird bug with CJS in TS5.5+, we'll stay on 5.4 so far
 
 # API
 
