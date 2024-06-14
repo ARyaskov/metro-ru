@@ -1,5 +1,5 @@
 import transliterate from "@sindresorhus/transliterate"
-import haversine from "haversine"
+const haversine = require("haversine")
 import moscowMetroData from "./data/moscow.json"
 import { MetroStation } from "./metro.js"
 
