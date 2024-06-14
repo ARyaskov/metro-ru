@@ -1,7 +1,7 @@
 {
   "name": "@riaskov/metro-ru",
   "description": "Russian metro stations data",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "license": "MIT",
   "keywords": [
     "metro",
@@ -19,8 +19,14 @@
   },
   "exports": {
     ".": {
-      "import": "./dist/esm/metro-ru.min.mjs",
-      "require": "./dist/cjs/metro-ru.min.cjs"
+      "import": {
+        "default": "./dist/esm/metro-ru.min.mjs",
+        "types": "./dist/esm/index.d.ts"
+      },
+      "require": {
+        "default": "./dist/cjs/metro-ru.min.cjs",
+        "types": "./dist/cjs/esm/index.d.ts"
+      }
     }
   },
   "main": "./dist/cjs/metro-ru.min.cjs",

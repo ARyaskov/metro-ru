@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es2015",
+    "target": "es2016",
     "typeRoots": [
       "./node_modules/@types",
       "./types"
@@ -17,7 +17,8 @@
     "baseUrl": "./",
     "incremental": false,
     "declaration": true,
-    "sourceMap": false
+    "sourceMap": false,
+    "moduleResolution": "Bundler"
   },
   "exclude": ["node_modules", "dist", "src/test.ts"]
 }
