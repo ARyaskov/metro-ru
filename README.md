@@ -30,7 +30,7 @@ Available cities:
 ```typescript
 enum City {
     Moscow = "Moscow",
-    SaintPetersburg = "Saint Petersburg",
+    SaintPetersburg = "SaintPetersburg",
     Ekaterinburg = "Ekaterinburg",
 }
 ```
