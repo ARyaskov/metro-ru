@@ -8,6 +8,7 @@ import {
   getClosestEkaterinburgStations,
   getEkaterinburgStationNames,
 } from "./ekaterinburg.js"
+import { getClosestStPetersburgStations } from "./stpetersburg.js"
 
 export enum City {
   Moscow = "Moscow",
@@ -54,6 +55,8 @@ export function getClosestStations(
   switch (city) {
     case City.Moscow:
       return getClosestMoscowStations(lat, lon, n)
+    case City.SaintPetersburg:
+      return getClosestStPetersburgStations(lat, lon, n)
     case City.Ekaterinburg:
       return getClosestEkaterinburgStations(lat, lon, n)
     default:

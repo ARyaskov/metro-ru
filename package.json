@@ -1,7 +1,7 @@
 {
   "name": "@riaskov/metro-ru",
   "description": "Russian metro stations data",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "license": "MIT",
   "keywords": [
     "metro",
@@ -53,6 +53,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.24.7",
+    "@babel/plugin-transform-runtime": "^7.24.7",
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-node-resolve": "^15.2.3",

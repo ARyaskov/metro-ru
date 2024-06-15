@@ -1,8 +1,9 @@
 {
   "extends": ["./tsconfig.base"],
   "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
-    "outDir": "dist/esm"
+    "outDir": "dist"
   }
 }

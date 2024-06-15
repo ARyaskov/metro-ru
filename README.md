@@ -8,8 +8,8 @@
 Russian Cities metro (subway) stations data with methods 
 for calculating a distance between given coordinate and station (using [Haversine formula](https://en.wikipedia.org/wiki/Haversine_formula)):
 - Moscow Metro
+- Saint Petersburg Metro
 - Ekaterinburg Metro
-- *in progress* Saint Petersburg Metro
 - *in progress* Kazan Metro
 - *in progress* Nizhny Novgorod Metro
 - *in progress* Novosibirsk Metro
@@ -19,8 +19,6 @@ for calculating a distance between given coordinate and station (using [Haversin
 
 - add English translation of stations names
 - add an address of each station
-- minify data files
-- create a common data dir in bundle
 - automatically push browser minified version to CDN
 - create super-minimal (<10 KBytes; now it's 40 KBytes) version for browser
 
@@ -33,11 +31,7 @@ Available cities:
 enum City {
     Moscow = "Moscow",
     SaintPetersburg = "Saint Petersburg",
-    NizhnyNovgorod = "Nizhny Novgorod",
-    Kazan = "Kazan",
-    Novosibirsk = "Novosibirsk",
     Ekaterinburg = "Ekaterinburg",
-    Samara = "Samara",
 }
 ```
 

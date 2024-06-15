@@ -13,6 +13,11 @@ import {
   getClosestMoscowStations,
 } from "./moscow.js"
 import {
+  getStPetersburgStationNames,
+  getClosestStPetersburgStation,
+  getClosestStPetersburgStations,
+} from "./stpetersburg.js"
+import {
   getEkaterinburgStationNames,
   getClosestEkaterinburgStation,
   getClosestEkaterinburgStations,
@@ -28,6 +33,9 @@ export {
   getClosestMoscowStation,
   getMoscowStationsByLineColor,
   getClosestMoscowStations,
+  getStPetersburgStationNames,
+  getClosestStPetersburgStation,
+  getClosestStPetersburgStations,
   getEkaterinburgStationNames,
   getClosestEkaterinburgStation,
   getClosestEkaterinburgStations,

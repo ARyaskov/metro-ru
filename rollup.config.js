@@ -59,6 +59,8 @@ export default [
             babel({
                 exclude: 'node_modules/**',
                 extensions: ['.js', '.jsx', '.ts', '.tsx'],
+                babelHelpers: 'runtime',
+                skipPreflightCheck: true
             }),
             resolve(),
             terser(),
