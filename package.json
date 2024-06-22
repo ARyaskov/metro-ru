@@ -1,14 +1,16 @@
 {
   "name": "@riaskov/metro-ru",
   "description": "Russian metro stations data",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "license": "MIT",
   "keywords": [
     "metro",
     "subway",
     "moscow",
     "saint-petersburg",
+    "kazan",
     "ekaterinburg",
+    "yekaterinburg",
     "russia",
     "russian",
     "stations"

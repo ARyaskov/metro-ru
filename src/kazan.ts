@@ -1,30 +1,30 @@
 import transliterate from "@sindresorhus/transliterate"
 import * as haversine from "haversine"
-import ekaterinburgMetroData from "./data/ekaterinburg.json"
+import kazanMetroData from "./data/kazan.json"
 import { MetroStation } from "./metro.js"
 
-interface InternalEkaterinburgMetroStation {
+interface InternalKazanMetroStation {
   Name: string
-  Longitude: number
+  NameTatar: string
+  Lat: number
+  Lon: number
   LineColor: string
-  Latitude: number
   Line: string
   Order: number
 }
 
-const typedEkaterinburgMetroData: InternalEkaterinburgMetroStation[] =
-  ekaterinburgMetroData
+const typedKazanMetroData: InternalKazanMetroStation[] = kazanMetroData
 
-export function getClosestEkaterinburgStation(
+export function getClosestKazanStation(
   lat: number,
   lon: number,
-): [MetroStation, number] {
-  const stations = typedEkaterinburgMetroData.map((station) => ({
+): [MetroStation & { nameTatar: string }, number] {
+  const stations = typedKazanMetroData.map((station) => ({
     ...station,
     distance: Number(
       haversine
         .default(
-          { latitude: station.Latitude, longitude: station.Longitude },
+          { latitude: station.Lat, longitude: station.Lon },
           { latitude: lat, longitude: lon },
           { unit: "meter" },
         )
@@ -35,10 +35,11 @@ export function getClosestEkaterinburgStation(
   return [
     {
       name: closest.Name,
+      nameTatar: closest.NameTatar,
       nameTranslit: transliterate(closest.Name),
-      lat: closest.Latitude,
-      lon: closest.Longitude,
-      lineColor: "#" + closest.LineColor,
+      lat: closest.Lat,
+      lon: closest.Lon,
+      lineColor: closest.LineColor,
       lineName: closest.Line,
       lineNameTranslit: transliterate(closest.Line),
       order: closest.Order,
@@ -47,17 +48,17 @@ export function getClosestEkaterinburgStation(
   ]
 }
 
-export function getClosestEkaterinburgStations(
+export function getClosestKazanStations(
   lat: number,
   lon: number,
   n: number,
-): [MetroStation, number][] {
-  const stations = typedEkaterinburgMetroData.map((station) => ({
+): [MetroStation & { nameTatar: string }, number][] {
+  const stations = typedKazanMetroData.map((station) => ({
     ...station,
     distance: Number(
       haversine
         .default(
-          { latitude: station.Latitude, longitude: station.Longitude },
+          { latitude: station.Lat, longitude: station.Lon },
           { latitude: lat, longitude: lon },
           { unit: "meter" },
         )
@@ -72,10 +73,11 @@ export function getClosestEkaterinburgStations(
   return closestStations.map((station) => [
     {
       name: station.Name,
+      nameTatar: station.NameTatar,
       nameTranslit: transliterate(station.Name),
-      lat: station.Latitude,
-      lon: station.Longitude,
-      lineColor: "#" + station.LineColor,
+      lat: station.Lat,
+      lon: station.Lon,
+      lineColor: station.LineColor,
       lineName: station.Line,
       lineNameTranslit: transliterate(station.Line),
       order: station.Order,
@@ -84,6 +86,6 @@ export function getClosestEkaterinburgStations(
   ])
 }
 
-export function getEkaterinburgStationNames(): string[] {
-  return typedEkaterinburgMetroData.map((station) => station.Name).sort()
+export function getKazanStationNames(): string[] {
+  return typedKazanMetroData.map((station) => station.Name).sort()
 }

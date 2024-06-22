@@ -18,6 +18,11 @@ import {
   getClosestStPetersburgStations,
 } from "./stpetersburg.js"
 import {
+  getKazanStationNames,
+  getClosestKazanStation,
+  getClosestKazanStations,
+} from "./kazan.js"
+import {
   getEkaterinburgStationNames,
   getClosestEkaterinburgStation,
   getClosestEkaterinburgStations,
@@ -36,6 +41,9 @@ export {
   getStPetersburgStationNames,
   getClosestStPetersburgStation,
   getClosestStPetersburgStations,
+  getKazanStationNames,
+  getClosestKazanStation,
+  getClosestKazanStations,
   getEkaterinburgStationNames,
   getClosestEkaterinburgStation,
   getClosestEkaterinburgStations,
