@@ -1,5 +1,5 @@
 import transliterate from "@sindresorhus/transliterate"
-import * as haversine from "haversine"
+const haversine = require("haversine")
 import stPetersburgMetroData from "./data/stpetersburg.json"
 import { MetroStation } from "./metro.js"
 
@@ -22,13 +22,11 @@ export function getClosestStPetersburgStation(
   const stations = typedStPetersburgMetroData.map((station) => ({
     ...station,
     distance: Number(
-      haversine
-        .default(
-          { latitude: station.Lat, longitude: station.Lon },
-          { latitude: lat, longitude: lon },
-          { unit: "meter" },
-        )
-        .toFixed(0),
+      haversine(
+        { latitude: station.Lat, longitude: station.Lon },
+        { latitude: lat, longitude: lon },
+        { unit: "meter" },
+      ).toFixed(0),
     ),
   }))
   const closest = stations.sort((a, b) => a.distance - b.distance)[0]
@@ -55,13 +53,11 @@ export function getClosestStPetersburgStations(
   const stations = typedStPetersburgMetroData.map((station) => ({
     ...station,
     distance: Number(
-      haversine
-        .default(
-          { latitude: station.Lat, longitude: station.Lon },
-          { latitude: lat, longitude: lon },
-          { unit: "meter" },
-        )
-        .toFixed(0),
+      haversine(
+        { latitude: station.Lat, longitude: station.Lon },
+        { latitude: lat, longitude: lon },
+        { unit: "meter" },
+      ).toFixed(0),
     ),
   }))
 
