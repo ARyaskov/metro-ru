@@ -64,22 +64,6 @@
     "Order": 7
   },
   {
-    "Name": "Деловой центр",
-    "Longitude": 37.5395,
-    "LineColor": "FFCD1C",
-    "Latitude": 55.7491,
-    "Line": "Калининская",
-    "Order": 8
-  },
-  {
-    "Name": "Парк Победы",
-    "Longitude": 37.514401,
-    "LineColor": "FFCD1C",
-    "Latitude": 55.736478,
-    "Line": "Калининская",
-    "Order": 9
-  },
-  {
     "Name": "Речной вокзал",
     "Longitude": 37.476728,
     "LineColor": "4FB04F",
@@ -622,6 +606,46 @@
     "Latitude": 55.6227,
     "Line": "Сокольническая",
     "Order": 21
+  },
+  {
+    "Name": "Филатов Луг",
+    "Longitude": 37.407999,
+    "LineColor": "E42313",
+    "Latitude": 55.601181,
+    "Line": "Сокольническая линия",
+    "Order": 22
+  },
+  {
+    "Name": "Прокшино",
+    "Longitude": 37.432965,
+    "LineColor": "E42313",
+    "Latitude": 55.586407,
+    "Line": "Сокольническая линия",
+    "Order": 23
+  },
+  {
+    "Name": "Ольховая",
+    "Longitude": 37.459056,
+    "LineColor": "E42313",
+    "Latitude": 55.568982,
+    "Line": "Сокольническая линия",
+    "Order": 24
+  },
+  {
+    "Name": "Новомосковская",
+    "Longitude": 37.468651,
+    "LineColor": "E42313",
+    "Latitude": 55.560073,
+    "Line": "Сокольническая линия",
+    "Order": 25
+  },
+  {
+    "Name": "Потапово",
+    "Longitude": 37.493023,
+    "LineColor": "E42313",
+    "Latitude": 55.552645,
+    "Line": "Сокольническая линия",
+    "Order": 26
   },
   {
     "Name": "Щелковская",
@@ -1966,5 +1990,237 @@
     "Latitude": 55.829305,
     "Line": "Монорельс",
     "Order": 5
+  },
+  {
+    "Name": "Нижегородская",
+    "Longitude": 37.729405,
+    "LineColor": "DE64A1",
+    "Latitude": 55.731834,
+    "Line": "Некрасовская",
+    "Order": 0
+  },
+  {
+    "Name": "Стахановская",
+    "Longitude": 37.752256,
+    "LineColor": "DE64A1",
+    "Latitude": 55.727206,
+    "Line": "Некрасовская",
+    "Order": 1
+  },
+  {
+    "Name": "Окская",
+    "Longitude": 37.781276,
+    "LineColor": "DE64A1",
+    "Latitude": 55.718624,
+    "Line": "Некрасовская",
+    "Order": 2
+  },
+  {
+    "Name": "Юго-Восточная",
+    "Longitude": 37.817997,
+    "LineColor": "DE64A1",
+    "Latitude": 55.705350,
+    "Line": "Некрасовская",
+    "Order": 3
+  },
+  {
+    "Name": "Косино",
+    "Longitude": 37.851310,
+    "LineColor": "DE64A1",
+    "Latitude": 55.703428,
+    "Line": "Некрасовская",
+    "Order": 4
+  },
+  {
+    "Name": "Улица Дмитриевского",
+    "Longitude": 37.879053,
+    "LineColor": "DE64A1",
+    "Latitude": 55.710312,
+    "Line": "Некрасовская",
+    "Order": 5
+  },
+  {
+    "Name": "Лухмановская",
+    "Longitude": 37.900576,
+    "LineColor": "DE64A1",
+    "Latitude": 55.708516,
+    "Line": "Некрасовская",
+    "Order": 6
+  },
+  {
+    "Name": "Некрасовка",
+    "Longitude": 37.928649,
+    "LineColor": "DE64A1",
+    "Latitude": 55.702437,
+    "Line": "Некрасовская",
+    "Order": 7
+  },
+  {
+    "Name": "Деловой центр",
+    "Longitude": 37.532222,
+    "LineColor": "FFD700",
+    "Latitude": 55.747222,
+    "Line": "Солнцевская линия",
+    "Order": 0
+  },
+  {
+    "Name": "Парк Победы",
+    "Longitude": 37.516865,
+    "LineColor": "FFD700",
+    "Latitude": 55.735679,
+    "Line": "Солнцевская линия",
+    "Order": 1
+  },
+  {
+    "Name": "Минская",
+    "Longitude": 37.497876,
+    "LineColor": "FFD700",
+    "Latitude": 55.723948,
+    "Line": "Солнцевская линия",
+    "Order": 2
+  },
+  {
+    "Name": "Ломоносовский проспект",
+    "Longitude": 37.516068,
+    "LineColor": "FFD700",
+    "Latitude": 55.707062,
+    "Line": "Солнцевская линия",
+    "Order": 3
+  },
+  {
+    "Name": "Раменки",
+    "Longitude": 37.498730,
+    "LineColor": "FFD700",
+    "Latitude": 55.697693,
+    "Line": "Солнцевская линия",
+    "Order": 4
+  },
+  {
+    "Name": "Мичуринский проспект",
+    "Longitude": 37.482903,
+    "LineColor": "FFD700",
+    "Latitude": 55.689074,
+    "Line": "Солнцевская линия",
+    "Order": 5
+  },
+  {
+    "Name": "Озёрная",
+    "Longitude": 37.449009,
+    "LineColor": "FFD700",
+    "Latitude": 55.670576,
+    "Line": "Солнцевская линия",
+    "Order": 6
+  },
+  {
+    "Name": "Говорово",
+    "Longitude": 37.417875,
+    "LineColor": "FFD700",
+    "Latitude": 55.659365,
+    "Line": "Солнцевская линия",
+    "Order": 7
+  },
+  {
+    "Name": "Солнцево",
+    "Longitude": 37.390903,
+    "LineColor": "FFD700",
+    "Latitude": 55.649387,
+    "Line": "Солнцевская линия",
+    "Order": 8
+  },
+  {
+    "Name": "Боровское шоссе",
+    "Longitude": 37.368574,
+    "LineColor": "FFD700",
+    "Latitude": 55.647104,
+    "Line": "Солнцевская линия",
+    "Order": 9
+  },
+  {
+    "Name": "Новопеределкино",
+    "Longitude": 37.355242,
+    "LineColor": "FFD700",
+    "Latitude": 55.639649,
+    "Line": "Солнцевская линия",
+    "Order": 10
+  },
+  {
+    "Name": "Рассказовка",
+    "Longitude": 37.334544,
+    "LineColor": "FFD700",
+    "Latitude": 55.634179,
+    "Line": "Солнцевская линия",
+    "Order": 11
+  },
+  {
+    "Name": "Пыхтино",
+    "Longitude": 37.296146,
+    "LineColor": "FFD700",
+    "Latitude": 55.624641,
+    "Line": "Солнцевская линия",
+    "Order": 12
+  },
+  {
+    "Name": "Аэропорт Внуково",
+    "Longitude": 37.287701,
+    "LineColor": "FFD700",
+    "Latitude": 55.607086,
+    "Line": "Солнцевская линия",
+    "Order": 13
+  },
+  {
+    "Name": "Новаторская",
+    "Longitude": 37.521878,
+    "LineColor": "BED12C",
+    "Latitude": 55.672029,
+    "Line": "Троицкая линия",
+    "Order": 0
+  },
+  {
+    "Name": "Университет дружбы народов",
+    "Longitude": 37.507557,
+    "LineColor": "BED12C",
+    "Latitude": 55.648241,
+    "Line": "Троицкая линия",
+    "Order": 1
+  },
+  {
+    "Name": "Генерала Тюленева",
+    "Longitude": 37.486031,
+    "LineColor": "BED12C",
+    "Latitude": 55.626248,
+    "Line": "Троицкая линия",
+    "Order": 2
+  },
+  {
+    "Name": "Тютчевская",
+    "Longitude": 37.481416,
+    "LineColor": "BED12C",
+    "Latitude": 55.618802,
+    "Line": "Троицкая линия",
+    "Order": 3
+  },
+  {
+    "Name": "Корниловская",
+    "Longitude": 37.479301,
+    "LineColor": "BED12C",
+    "Latitude": 55.598786,
+    "Line": "Троицкая линия",
+    "Order": 4
+  },
+  {
+    "Name": "Коммунарка",
+    "Longitude": 37.467966,
+    "LineColor": "BED12C",
+    "Latitude": 55.574598,
+    "Line": "Троицкая линия",
+    "Order": 5
+  },
+  {
+    "Name": "Новомосковская",
+    "Longitude": 37.468651,
+    "LineColor": "BED12C",
+    "Latitude": 55.560073,
+    "Line": "Троицкая линия",
+    "Order": 6
   }
 ]
