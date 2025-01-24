@@ -15,6 +15,30 @@ for calculating a distance between given coordinate and station (using [Haversin
 - *in progress* Novosibirsk Metro
 - *in progress* Samara Metro
 
+
+# Use
+
+### with HTML
+```html
+<script src="https://cdn.jsdelivr.net/npm/@riaskov/metro-ru@1/dist/browser/metro-ru.min.js"></script>
+```
+
+### with Node.js
+package.json:
+```json
+"dependencies": {
+  "@riaskov/metro-ru": "^1.x.x"
+}
+```
+
+your code:
+```js
+import { getClosestStations } from '@riaskov/metro-ru'
+
+console.log(getClosestStations(City.Moscow, 55.640918, 37.754337, 2))
+```
+
+
 # TODO
 
 - add English translation of stations names
