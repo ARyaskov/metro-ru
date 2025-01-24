@@ -1,23 +1,8 @@
-import {
-  getClosestMoscowStation,
-  getClosestMoscowStations,
-  getMoscowStationNames,
-} from "./moscow.js"
-import {
-  getClosestEkaterinburgStation,
-  getClosestEkaterinburgStations,
-  getEkaterinburgStationNames,
-} from "./ekaterinburg.js"
-import {
-  getClosestStPetersburgStation,
-  getClosestStPetersburgStations,
-  getStPetersburgStationNames,
-} from "./stpetersburg.js"
-import {
-  getClosestKazanStation,
-  getClosestKazanStations,
-  getKazanStationNames,
-} from "./kazan.js"
+import { getClosestMoscowStation, getClosestMoscowStations, getMoscowStationNames } from "./moscow.js"
+import { getClosestEkaterinburgStation, getClosestEkaterinburgStations, getEkaterinburgStationNames } from "./ekaterinburg.js"
+import { getClosestStPetersburgStation, getClosestStPetersburgStations, getStPetersburgStationNames } from "./stpetersburg.js"
+import { getClosestKazanStation, getClosestKazanStations, getKazanStationNames } from "./kazan.js"
+import { MetroStation } from "./util"
 
 export enum City {
   Moscow = "Moscow",
@@ -26,25 +11,10 @@ export enum City {
   Kazan = "Kazan",
   Novosibirsk = "Novosibirsk",
   Ekaterinburg = "Ekaterinburg",
-  Samara = "Samara",
+  Samara = "Samara"
 }
 
-export interface MetroStation {
-  name: string
-  nameTranslit: string
-  lat: number
-  lon: number
-  lineColor: string
-  lineName: string
-  lineNameTranslit: string
-  order: number
-}
-
-export function getClosestStation(
-  city: City,
-  lat: number,
-  lon: number,
-): [MetroStation, number] | null {
+export function getClosestStation(city: City, lat: number, lon: number): [MetroStation, number] | null {
   switch (city) {
     case City.Moscow:
       return getClosestMoscowStation(lat, lon)
@@ -59,12 +29,7 @@ export function getClosestStation(
   }
 }
 
-export function getClosestStations(
-  city: City,
-  lat: number,
-  lon: number,
-  n: number,
-): [MetroStation, number][] | null {
+export function getClosestStations(city: City, lat: number, lon: number, n: number): [MetroStation, number][] | null {
   switch (city) {
     case City.Moscow:
       return getClosestMoscowStations(lat, lon, n)

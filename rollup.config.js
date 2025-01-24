@@ -27,6 +27,14 @@ const minifiedOutputs = [
     {
         file: pkg.exports['.'].require,
         format: 'cjs',
+    },
+    {
+        file: pkg.exports['.'].browser,
+        format: 'umd',
+        name: 'metroRu',
+        globals: {
+            '@sindresorhus/transliterate': 'transliterate'
+        }
     }
 ];
 
