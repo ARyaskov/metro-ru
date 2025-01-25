@@ -43,8 +43,7 @@ console.log(getClosestStations(City.Moscow, 55.640918, 37.754337, 2))
 
 - add English translation of stations names
 - add an address of each station
-- automatically push browser minified version to CDN
-- create super-minimal (<10 KBytes; now it's 40 KBytes) version for browser
+- create super-minimal (<10 KBytes; now it's 70 KBytes) version for browser
 - add mocha/chai tests
 
 # API
